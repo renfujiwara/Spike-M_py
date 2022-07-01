@@ -1,0 +1,3 @@
+T: 96 # duration of sequence
+ITER: 20 # of max iteration
+pfreq: 24 # daily periodicity
