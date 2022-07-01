@@ -16,6 +16,3 @@ seqfnORG=$datdir"/sequence.dat"
 yamlfn=$outdir"/params.yaml"
 
 python3 main.py -s $seqfnORG -o $outdir -p $yamlfn #> $outdirC"log.txt"
-
-
-# sh notify-me.sh $datdir "spike_m"
