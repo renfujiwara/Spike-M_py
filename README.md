@@ -5,9 +5,8 @@
 	This is a python code of SpikeM. 
 
 
-2. Quick demo
+2. Fitting data
 
-	Fitting data
       $ sh exp.sh
       
   
