@@ -1,0 +1,8 @@
+graphviz
+lmfit
+matplotlib
+numpy
+pandas
+PyYAML
+scikit-learn
+scipy
